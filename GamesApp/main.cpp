@@ -14,7 +14,7 @@
 
 int main()
 {
-	SWinter M;
+	VGames M;
 	cout << M;
 	return 0;
 }
