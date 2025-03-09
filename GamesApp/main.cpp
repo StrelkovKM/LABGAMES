@@ -14,7 +14,7 @@
 
 int main()
 {
-	VGames M;
-	cout << M;
+	VGames X;
+	cout << X;
 	return 0;
 }
