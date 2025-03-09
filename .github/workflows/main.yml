@@ -37,6 +37,6 @@ jobs:
           cmake ..
           make
           echo make complete
-          ./Main/GamesApplication
+          ./GamesApp/GamesApplication
           ./test/BirchTest
 
